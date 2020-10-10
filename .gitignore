@@ -1,0 +1,8 @@
+node_modules
+
+# ReasonML
+*.bs.js
+.merlin
+.bsb.lock
+/lib/bs/
+/lib/js/
